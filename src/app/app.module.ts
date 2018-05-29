@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { ParticipantsComponent } from './participants/participants.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
+import { ParticipantsService } from './services/participants.service';
 
 @NgModule({
   declarations: [
